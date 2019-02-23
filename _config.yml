@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JING(JANET) TU"
+title                    : "Jing(Janet) Tu"
 title_separator          : "-"
 name                     : &name "JING TU"
 description              : &description "Current UW Master Student"
@@ -93,14 +93,14 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/jing.tu.9678"
+  facebook         : "jing.tu.9678"
   foursquare       :
   github           : "Tutu1995"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jing-tu-318615156/"
+  linkedin         : "jing-tu-318615156/"
   orcid            : 
   pinterest        :
   soundcloud       :
