@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-CV
+
 ======
 Please refer to my latest resume(pdf) [Oct. 2018] or my LinkedIn profile.
 
