@@ -16,8 +16,10 @@ Please refer to my latest resume(pdf) [Oct. 2018] or my LinkedIn profile.
 
 Education
 ======
-* M.S. in University of Washington (UW), 2017
-* B.S. in Anhui University of Technology, 2013
+M.S. in University of Washington (UW), Sep.2017 - Jun. 2019(expected)
+* Material Engineering & UW Data Scientist Program 
+B.S. in Anhui University of Technology, Sep. 2013 - Jun. 2017
+* Bachelor of Engineering
 
 Languages
 ======
