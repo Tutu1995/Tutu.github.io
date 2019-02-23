@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please refer to my latest resume(pdf) [Oct. 2018] or my LinkedIn profile.
+
 Education
 ======
 * M.S. in University of Washington (UW), 2017
