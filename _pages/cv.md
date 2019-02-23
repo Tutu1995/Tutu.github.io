@@ -11,31 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in University of Washington (UW), 2017
+* B.S. in Anhui University of Technology, 2013
+
+Languages
+======
+* Java
+* JavaScript
+* Python
+* PHP
+* HTML/CSS
+
+
+Skills
+======
+* Interests Web development, Client-side and Server-side programming, Machine Learning
+* Languages Java, JavaScript, Python, PHP
+* Tools React, Git, SQL, Firebase, ExpressJS, MongoDB, NodeJS
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 06/2018-10/2018: Summer Internship -- Software Engineer at BlockTerms Inc. , Seattle, WA
+  * Developed blockchain web using HTML, CSS, JavaScript (Vue.js), Boostrap & Bulma CSS Framework.
+  * Built responsive and friendly user interface (compatible with computers, tablets and mobile phones).
+  * Designed and implemented API for sign up, login system using Laravel
+  * Played with Docker & Google Cloud Datastore needed for the project.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 1/2019-Now: Part-time Internship -- Full Stack Engineer at Green Guide , Seattle, WA
+  * Develop and create whole new website for people in China to report company environment reviews on a map.
+  * (tech: HTML, JavaScript, jQuery, CSS, Map API, PHP, MySQL)
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* 1/2019-Now: Part-time Internship : Backend Engineer at Dapper Inc. , Seattle, WA
+  * Implement back-end service and APIs using Express.JS and MongoDB, creating useful endpoints for getting and posting data
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
