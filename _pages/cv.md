@@ -32,13 +32,15 @@ Skills
 
 Work experience
 ======
-* 06/2018-10/2018: Summer Internship -- Software Engineer at BlockTerms Inc. , Seattle, WA
+* 06/2018-10/2018: 
+* Summer Internship -- Software Engineer at BlockTerms Inc. , Seattle, WA
   * Developed blockchain web using HTML, CSS, JavaScript (Vue.js), Boostrap & Bulma CSS Framework.
   * Built responsive and friendly user interface (compatible with computers, tablets and mobile phones).
   * Designed and implemented API for sign up, login system using Laravel
   * Played with Docker & Google Cloud Datastore needed for the project.
 
-* 1/2019-Now: Part-time Internship -- Full Stack Engineer at Green Guide , Seattle, WA
+* 1/2019-Now: 
+* Part-time Internship -- Full Stack Engineer at Green Guide , Seattle, WA
   * Develop and create whole new website for people in China to report company environment reviews on a map.
   * (tech: HTML, JavaScript, jQuery, CSS, Map API, PHP, MySQL)
   
