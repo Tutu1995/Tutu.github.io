@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JING TU / Site Title"
+title                    : "JING(JANET) TU"
 title_separator          : "-"
 name                     : &name "JING TU"
 description              : &description "Current UW Master Student"
@@ -82,32 +82,32 @@ analytics:
 author:
   name             : "JING TU"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "To Be Brave"
+  location         : "Seattle"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : 
+  email            : "tuj2@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/jing.tu.9678"
   foursquare       :
   github           : "Tutu1995"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/Tutu"
+  linkedin         : "https://www.linkedin.com/in/jing-tu-318615156/"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Tutu-twitter"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
