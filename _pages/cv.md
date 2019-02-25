@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please refer to my latest resume(pdf) [Oct. 2018] or my <a href= "https://www.linkedin.com/in/jing-tu-318615156/" LinkedIn profile.</a>
+Please refer to my latest resume(pdf) [Oct. 2018] or my <a href= "https://www.linkedin.com/in/jing-tu-318615156/"> LinkedIn profile.</a>
 
 
 Education
