@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please refer to my latest resume(pdf) [Oct. 2018] or my LinkedIn profile.
+Please refer to my latest resume(pdf) [Oct. 2018] or my <a href= "https://www.linkedin.com/in/jing-tu-318615156/" LinkedIn profile.</a>
 
 
 Education
@@ -71,6 +71,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Honor
 ======
-* Currently signed in to 43 different slack teams
+* June 2017 UW Direct Data Scientist Program CERTIFICATION
+* June 2016 National Endeavor Fellowship (5/175), Anhui Province Department of Education
+* June 2015 Outstanding Student Cadres (3/175), Anhui University of Technology
+
+  
+Patent
+======
+A new combined dynamic and static flower pot
+* Patent issuer and numbercn 03233325.0
