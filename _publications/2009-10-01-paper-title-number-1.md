@@ -11,7 +11,7 @@ Introduction
 ======
 This website provides you a tool to search for event options such as wedding or hiking to help your get a whole picture of the vibe you want to go with. Or you can search for categories like hat, shoe, or t-shirt. And the better part is that you can add any image you found on this website and put it inside your "my outfit" box. So if you find similar clothes that look like yours, you can see how well it turned out to be. The map helps the users to find the trendy clothes in a particular location like seattle.
 
-[See website here](https://info340a-au18.github.io/project-duy29)
+[See Website Here](https://info340a-au18.github.io/project-duy29)
 
 My Achievments
 ======
