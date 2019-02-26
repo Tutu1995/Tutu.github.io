@@ -3,7 +3,7 @@ title: "Project 2 : Machine Learning Applied in Photophysical Process of Solar C
 collection: publications
 permalink: /projects/project2
 excerpt: 'Peakaboo: Machine Learning Applied in Photophysical Process of Solar Cells.'
-date: 2018-6-01
+date: 2018-06-01
 venue: 'Jun 1'
 
 ---
