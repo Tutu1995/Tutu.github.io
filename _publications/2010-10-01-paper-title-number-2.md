@@ -1,5 +1,5 @@
 ---
-title: "Project 2"
+title: "Project 2 : Machine Learning Applied in Photophysical Process of Solar Cells , UW"
 collection: publications
 permalink: /projects/project2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
