@@ -1,8 +1,8 @@
 ---
-title: "Project 1"
+title: "Project 1 : Fashion Advisor"
 collection: publications
 permalink: /project/project1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'Fashion Advisor: A website to search for events, weather and popularity options.'
 date: 2018-10-01
 venue: 'Oct 1'
 
