@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Please refer to my latest  <a href= "http://127.0.0.1:4000/files/Jing_Resume.pdf">resume(pdf)</a>
+Please refer to my latest  <a href= "https://tutu1995.github.io/files/Jing_Resume.pdf">resume(pdf)</a>
 [Jan. 2019] or my <a href= "https://www.linkedin.com/in/jing-tu-318615156/"> LinkedIn profile.</a>
 
 
