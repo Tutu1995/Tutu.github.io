@@ -5,7 +5,7 @@ permalink: /project/project3
 excerpt: 'This Project is about Data Intensive Research Enabling Clean Technologies Program.'
 date: 2018-1-01
 venue: 'Jan 1'
-citation: 'Jing Tu. (2018-1-01)'
+
 ---
 Introduction
 ======
