@@ -61,7 +61,7 @@ Summer Internship -- Software Engineer at BlockTerms Inc. , Seattle, WA
   * Designed and implemented API for sign up, login system using Laravel
   * Played with Docker & Google Cloud Datastore needed for the project.
   
-Publications
+Projects
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
