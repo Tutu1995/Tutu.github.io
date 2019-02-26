@@ -1,15 +1,25 @@
 ---
-title: "Project 2 : Machine Learning Applied in Photophysical Process of Solar Cells , UW"
+title: "Project 2 : Machine Learning Applied in Photophysical Process of Solar Cells "
 collection: publications
 permalink: /projects/project2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-3-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Jing Tu. (2018). &quot;Project 2.&quot;'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Introduction
+======
+Peakaboo is a software package for analysis of transient absorption (TA) data. It can self-consistently identify spectrally and temporally evolvin signatures of charge carriers after photoexcitation in TA data. With minimal assumption, our algorithm recovers and visualizes the spectral and kinetic information of individual populations by combining methods such as multivariate adaptive regression spline fitting and data clustering.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Poster](https://tutu1995.github.io/files/poster1)
+[Github](https://github.com/liud16/peakaboo)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+My Achievments
+======
+*	Apply ML (machine learning) methods on photovoltaic materials, thus enabling the design of more efficient solar cells.
+*	Develop software and attempt to recover spectral and kinetic information of the individual photophysical populations with minimal assumptions.
+*	Find places where solar and wind energy can compensate to each other to achieve a stable source of clean energy and use this combinational renewable energy source to replace the local traditional energy supply
+
+
+
+Recommended citation: Jing Tu, Thomas Penner, Zenan Cai, Yu Du, Even Whitcomb.
