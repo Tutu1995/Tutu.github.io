@@ -13,7 +13,7 @@ Happy-4 is a project to find the best way to combine solar and wind energy in or
 
 Users input a location to download the corresponding data of insolation and wind speed automatically. Data are put into the simulation models of System Advisor Model (SAM) to estimate the energy generation of a solar panel and a wind turbine. Since the results of Dickey Fuller Test show that both the simluated data of solar and wind energy are stationary, the simulated data of years are then processed to acquire averaged daily data for 365 days in a year. Based on the processed results, this project returns a optimal ratio of solar panels and wind turbines and upon the ratio a stable combinational energy generation resource can be obtained. The figures of of the generation of a single solar panel and a wind turbine and the combiation of the ratio are provided.
 
-[Poster](https://tutu1995.github.io/files/poster2)
+[Poster](https://tutu1995.github.io/files/Poster2.pdf)
 [Github](https://github.com/cchvv/Project-Happy-4)
 
 My Achievments
