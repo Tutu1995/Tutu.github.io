@@ -1,11 +1,12 @@
 ---
-permalink: /
+permalink: / 
 title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /intro/
 ---
 
 Hi ! I'm a current UW master student. Now pursuing MS in Material Engineering along with Data Science certificate program at University of Washington, which equipped me with Interdisciplinary talent of engineering and computer science technology.
