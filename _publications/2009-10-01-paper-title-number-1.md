@@ -3,8 +3,8 @@ title: "Project 1 : Fashion Advisor -- search for events, weather and popularity
 collection: publications
 permalink: /project/project1
 excerpt: 'Fashion Advisor: A website to search for events, weather and popularity options.'
-date: 2018-10-01
 venue: "Oct 1"
+date: 2018-10-01
 location: "Seattle, Washington"
 ---
 Introduction
