@@ -1,5 +1,5 @@
 ---
-title: "Project 1 : Fashion Advisor -- A website to search for events, weather and popularity options"
+title: "Project 1 : Fashion Advisor -- search for events, weather and popularity options"
 collection: publications
 permalink: /project/project1
 excerpt: 'Fashion Advisor: A website to search for events, weather and popularity options.'
