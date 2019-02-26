@@ -34,9 +34,9 @@ Languages
 
 Skills
 ======
-* Interests Web development, Client-side and Server-side programming, Machine Learning
-* Languages Java, JavaScript, Python, PHP
-* Tools React, Git, SQL, Firebase, ExpressJS, MongoDB, NodeJS
+* Interests: Web development, Client-side and Server-side programming, Machine Learning
+* Languages: Java, JavaScript, Python, PHP, HTML/CSS
+* Tools: React, Git, SQL, Firebase, ExpressJS, MongoDB, NodeJS
 
 
 Work experience
