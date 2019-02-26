@@ -2,10 +2,10 @@
 title: "Project 2 : Machine Learning Applied in Photophysical Process of Solar Cells "
 collection: publications
 permalink: /projects/project2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2018-3-01
-venue: 'Mar 1'
-citation: 'Jing Tu. (2018-3-01)'
+excerpt: 'Peakaboo: Machine Learning Applied in Photophysical Process of Solar Cells.'
+date: 2018-6-01
+venue: 'Jun 1'
+
 ---
 Introduction
 ======
