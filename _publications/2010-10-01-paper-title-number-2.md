@@ -4,8 +4,8 @@ collection: publications
 permalink: /projects/project2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2018-3-01
-venue: 'Journal 1'
-citation: 'Jing Tu. (2018). &quot;Project 2.&quot;'
+venue: 'Mar 1'
+citation: 'Jing Tu. (2018-3-01)'
 ---
 Introduction
 ======
@@ -22,4 +22,4 @@ My Achievments
 
 
 
-Recommended citation: Jing Tu, Thomas Penner, Zenan Cai, Yu Du, Even Whitcomb.
+Recommended citation: Jing Tu, Demi Liu, Ian Murphy.
